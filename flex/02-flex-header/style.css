@@ -4,6 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 8px;
 }
 
 .logo {
@@ -21,8 +22,8 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 8px;
-  flex: auto;
-  margin-right:25px;
+  margin: 0;
+  padding: 0;
 }
 
 a {
